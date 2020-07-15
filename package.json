@@ -8,7 +8,7 @@
     "start": "gulp"
   },
   "dependencies": {
-    "socket.io-client": "^1.5.0"
+    "socket.io-client": "^2.3.0"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.0.0",
